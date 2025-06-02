@@ -1,6 +1,6 @@
 # Application Météo avec API OpenWeather
 
-![Prévisualisation de l'application](preview.jpg) <!-- Remplacez par une image réelle de votre app -->
+![Prévisualisation de l'application](assets/screenshot.png)
 
 Une application météo mobile-first utilisant l'API OpenWeather avec géolocalisation, animations dynamiques et interface moderne.
 
